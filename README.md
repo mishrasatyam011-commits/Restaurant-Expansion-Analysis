@@ -1,0 +1,1 @@
+This project analyzes global restaurant datasets to identify the most promising international markets for Zomato’s potential expansion. Using data-driven insights, the analysis evaluates competition, customer preferences, economic indicators, and service gaps to recommend high-value countries and cities for strategic global growth.
